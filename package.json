@@ -1,0 +1,16 @@
+{
+  "name": "random-list-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^17.10.1",
+    "uuid": "^9.0.1"
+  }
+}
